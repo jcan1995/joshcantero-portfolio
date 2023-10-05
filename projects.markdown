@@ -6,4 +6,6 @@ layout: projects
 title: Projects
 ---
 
-Help me fill this page up with some awesome projects. [Book a meeting](https://calendar.app.google/uZEc9znTLMt53r986) with me or lets connect async!
+Help me fill this page up with some awesome projects!
+
+[Book a meeting](https://calendar.app.google/uZEc9znTLMt53r986) with me or lets connect async!
