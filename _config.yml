@@ -52,3 +52,6 @@ theme: minima
 #   - vendor/gems/
 #   - vendor/ruby/
 
+include:
+  - "_img"
+  

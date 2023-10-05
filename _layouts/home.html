@@ -3,14 +3,21 @@ layout: base
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
   <div style="display: flex; flex-direction: row;">
-    <img src="/assets/images/professional_photo.jpeg"/>
+    <div style="width: 100%;">
+      <img 
+        width="192px"
+        width="192px"
+        src="https://jcan1995.github.io/joshcantero-portfolio/assets/images/professional_photo.jpeg" 
+      />
+    </div>
     <div>
+      {%- if page.title -%}
+        <h1 class="page-heading">{{ page.title }}</h1>
+      {%- endif -%}
+
       {{ content }}
+
     </div>
   </div>
 
