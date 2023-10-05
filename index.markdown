@@ -4,16 +4,17 @@
 
 layout: home
 ---
+# About me
+I'm a full stack web developer with 6 years of professional experience building web applications using modern web frameworks. Whether you're trying to build a web application or fix an existing one I am here to help!
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+ I have a history of working with technologies such as React JS, Node JS, Python, Flask, API integrations, PostgresQL, Splunk, and Data Visualization.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+⭐ WHY CHOOSE ME? ⭐
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+✅ **Communication**: You are probably already managing many other tasks that take up much of your time. That’s why I strive to hold calculated meetings which will allow me to gather requirements and work independently all while keeping you informed on progress.
 
+✅ **Experience**: I have over 6 years of experience in the software engineering field using a variety of technologies. With this experience I can help build you any software product.
 
-[jekyll-organization]: https://github.com/jekyll
+✅ **Low cost**: I am new in the freelance space so I am currently offering a low cost rate in exchange for a good review.
+
+[Book a meeting](https://calendar.app.google/uZEc9znTLMt53r986) with me or lets connect async!
