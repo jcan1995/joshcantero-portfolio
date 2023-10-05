@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<!-- # About me -->
+## About me
 I'm a full stack web developer with 6 years of professional experience building web applications using modern web frameworks. Whether you're trying to build a web application or fix an existing one I am here to help!
 
  I have a history of working with technologies such as React JS, Node JS, Python, Flask, API integrations, PostgresQL, Splunk, and Data Visualization.
