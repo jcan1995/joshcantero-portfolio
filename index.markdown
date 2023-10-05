@@ -18,4 +18,4 @@ I have a history of working with technologies such as React JS, Node JS, Python,
 
 ✅ **Low cost**: I am new in the freelance space so I am currently offering a low cost rate in exchange for a good review.
 
-[Book a meeting](https://calendar.app.google/uZEc9znTLMt53r986) with me or lets connect async via email cantero.joshua@gmail.com!
+[Book a meeting](https://calendar.app.google/uZEc9znTLMt53r986) with me or lets connect async!
