@@ -4,6 +4,7 @@
 
 layout: projects
 title: Projects
+permalink: /projects/
 ---
 
 Help me fill this page up with some awesome projects!
