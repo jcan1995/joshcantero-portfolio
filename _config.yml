@@ -22,15 +22,14 @@ title: Josh Cantero
 email: cantero.joshua@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Lets me help build your App. Book a meeting with me here https://calendar.app.google/uZEc9znTLMt53r986
-baseurl: "/joshcantero-portfolio" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jcan1995.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  jcan1995
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
