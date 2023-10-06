@@ -7,6 +7,6 @@ title: Projects
 permalink: /projects
 ---
 
-Help me fill this page up with some awesome projects!
+Help me fill this page up with more awesome projects!
 
 [Book a meeting](https://calendar.app.google/uZEc9znTLMt53r986) with me or lets connect async!

@@ -52,3 +52,9 @@ theme: minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+carousels:
+  - images: 
+    - image: https://jcan1995.github.io/joshcantero-portfolio/assets/davidl/images/homepage.png
+    - image: https://jcan1995.github.io/joshcantero-portfolio/assets/davidl/images/pingstart.png
+    - image: https://jcan1995.github.io/joshcantero-portfolio/assets/davidl/images/pinging.png
+    - image: https://jcan1995.github.io/joshcantero-portfolio/assets/davidl/images/pingsend.png
