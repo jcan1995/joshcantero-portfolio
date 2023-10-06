@@ -28,7 +28,7 @@
           <ul>
             {% for item in page.carousels[number].images %}
             <li class="carousel__slide">
-                <img src="{{item.image}}"/>
+                <img src="{{item.image}}" style="height: 500px;width: 500px;"/>
             </li>
             {% endfor %}
           </ul>
@@ -42,7 +42,7 @@
 </div>
 
 <style>
-.carousel__holder {height: 550px; width: 100%; position: relative; padding-bottom: 10%; margin: 1rem 0 1rem;}
+.carousel__holder {height: 500px; width: 100%; position: relative; padding-bottom: 10%; margin: 1rem 0 1rem;}
 .carousel {
   height: 100%;
   width: 100%;
@@ -90,9 +90,8 @@
   cursor: pointer;
   border-width: 5px 5px 0 0;
   border-style: solid;
-  border-color: #fafafa;
+  border-color: black;
   opacity: 0.35;
-  opacity: 1;
   outline: 0;
   z-index: 3;
 }
