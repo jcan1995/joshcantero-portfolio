@@ -10,7 +10,7 @@ carousels:
     - image: https://jcan1995.github.io/joshcantero-portfolio/assets/images/homepage.png
     - image: https://jcan1995.github.io/joshcantero-portfolio/assets/images/pingstart.png
     - image: https://jcan1995.github.io/joshcantero-portfolio/assets/images/pinging.png
-    - image: https://jcan1995.github.io/joshcantero-portfolio/assets/images/pingsend.png
+    - image: https://jcan1995.github.io/joshcantero-portfolio/assets/images/pingend.png
 ---
 
 Help me fill this page up with more awesome projects!
