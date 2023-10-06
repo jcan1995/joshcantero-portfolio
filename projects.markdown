@@ -5,6 +5,12 @@
 layout: projects
 title: Projects
 permalink: /projects
+carousels:
+  - images: 
+    - image: https://jcan1995.github.io/joshcantero-portfolio/assets/davidl/images/homepage.png
+    - image: https://jcan1995.github.io/joshcantero-portfolio/assets/davidl/images/pingstart.png
+    - image: https://jcan1995.github.io/joshcantero-portfolio/assets/davidl/images/pinging.png
+    - image: https://jcan1995.github.io/joshcantero-portfolio/assets/davidl/images/pingsend.png
 ---
 
 Help me fill this page up with more awesome projects!
